@@ -1,0 +1,13 @@
+# Dependências do Node (muito pesado)
+node_modules/
+
+# Variáveis de Ambiente (MUITO IMPORTANTE: contém sua chave do Gemini e do Banco)
+.env
+
+# Logs de erro do NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de sistema do Mac (se você usar)
+.DS_Store
